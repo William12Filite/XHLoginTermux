@@ -3,9 +3,11 @@ Login para termux, con contraseña segura creado en lenguaje bash; con 3 banners
 
 Comandos:
 
-1) cd XHLoginTermux && bash Install.sh
+1) cd $HOME && git clone https://github.com/RaulXH/XHLoginTermux
 
-2) Abra otra session nueva
+2)  cd XHLoginTermux && bash Install.sh
+
+3)  Abra otra session nueva
 #
 Si quieres cambiar la contraseña  o desinstalar usa como llave de acesso la palabra " help " o " Help "
 # 
