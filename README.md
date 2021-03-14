@@ -1,7 +1,7 @@
 # XHLoginTermux
 Login para termux, con contraseña segura creado en lenguaje bash; con 3 banners diferentes
 
-Comandos:
+# Comandos:
 ```
 1) cd $HOME && git clone https://github.com/RaulXH/XHLoginTermux
 
